@@ -1,6 +1,6 @@
 Data Journalism project.
 Sources (all public data):
-Distribution & rates for king county: https://www.kingcounty.gov/depts/health/covid-19/data/race-ethnicity.aspx
+Distribution & rates for king county: https://www.kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
 
 CDC report: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/racial-ethnic-minorities.html
 
